@@ -2,8 +2,8 @@
 
 # 𝙄 Username: hctuser, But you don't know who I am
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/hctuser)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/thisishct)
+[![](https://img.shields.io/badge/-@hctuser-%23181717?style=flat-square&logo=github)](https://github.com/hctuser)
+[![](https://img.shields.io/badge/-@thisishct-%23000000?style=flat-square&logo=codepen)](https://codepen.io/thisishct)
 
 
 I play with APIs and colourful words on the interwebs
@@ -49,7 +49,3 @@ NO
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=hctuser&show_icons=true&theme=dracula)
