@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-# 𝙄 Username: hctuser
- But you don't know who I am
+# 𝙄 Username: hctuser, But you don't know who I am
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
